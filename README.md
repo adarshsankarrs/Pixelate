@@ -11,7 +11,6 @@ Table of Contents :bookmark_tabs:
 - [Filter/Effects available](#Filter-and-Effects-available)
 - [Installation](#Installation)
 - [Deployment](#Deployment)
-- [Demo](#demo)
 - [Examples](#examples)
 
 ## Features
